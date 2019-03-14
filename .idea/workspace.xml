@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4105cb72-8875-42ad-a5e9-5be7788ec68a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app_igdl/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_igdl/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html" beforeDir="false" afterPath="$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/app_igdl/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app_igdl/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="109">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -64,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -82,10 +82,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app_igdl/urls.py" />
-        <option value="$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html" />
         <option value="$PROJECT_DIR$/app_igdl/utils.py" />
         <option value="$PROJECT_DIR$/app_igdl/templates/app_igdl/download.html" />
         <option value="$PROJECT_DIR$/app_igdl/views.py" />
+        <option value="$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html" />
       </list>
     </option>
   </component>
@@ -106,31 +106,12 @@
           <expand>
             <path>
               <item name="insta_dwnld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="insta_dwnld" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="insta_dwnld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="insta_dwnld" type="462c0819:PsiDirectoryNode" />
-              <item name="app_igdl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="insta_dwnld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="insta_dwnld" type="462c0819:PsiDirectoryNode" />
-              <item name="app_igdl" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="insta_dwnld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="insta_dwnld" type="462c0819:PsiDirectoryNode" />
-              <item name="app_igdl" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="insta_dwnld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="insta_dwnld" type="462c0819:PsiDirectoryNode" />
-              <item name="app_igdl" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="app_igdl" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (ENV) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -151,7 +132,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="insta_dwnld" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="insta_dwnld" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,13 +205,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/insta_dwnld/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-27" />
@@ -231,7 +213,7 @@
     <entry file="file://$PROJECT_DIR$/app_igdl/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -257,13 +239,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app_igdl/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="109">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app_igdl/templates/app_igdl/image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
